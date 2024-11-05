@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuiteTodoly.SignUpTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-05T20:36:32" hostname="WENDYCACERES" time="29.33">
+  <properties/>
+  <testcase name="createAndDeleteUser()" classname="testSuiteTodoly.SignUpTest" time="29.33"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[nov 05, 2024 4:36:34 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 130, returning the closest version; found: 129; Please update to a Selenium version that supports CDP version 130
+]]></system-err>
+</testsuite>
